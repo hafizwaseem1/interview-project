@@ -74,7 +74,7 @@ const home = () => {
         </div>
       </div>
       <div className='w-full mt-[1vw]'>
-        <CiDesktopMouse2 size={20} color='white' className='ml-[48.5vw] ' />
+        <CiDesktopMouse2 size={20} color='white' className='ml-[47.95vw] ' />
 
         <div class="relative flex flex-col items-center ml-[-1.35vw] mt-[0.5vw]">
           <div class="w-[0.1vw] h-32 bg-white "></div>
